@@ -1,0 +1,29 @@
+{
+  "name": "@marvelousjs/react-dev",
+  "version": "0.1.1",
+  "dependencies": {
+    "@types/classnames": "^2.2.6",
+    "@types/react": "^16.8.0",
+    "@types/react-dom": "^16.8.0",
+    "@types/react-helmet": "^5.0.7",
+    "@types/react-router": "^4.0.31",
+    "@types/react-router-dom": "^4.3.1",
+    "awesome-typescript-loader": "^5.2.1",
+    "copy-webpack-plugin": "^4.5.2",
+    "css-loader": "^1.0.0",
+    "file-loader": "^2.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "js-yaml": "^3.12.2",
+    "node-sass": "^4.9.3",
+    "react-snap": "^1.20.0",
+    "sass-loader": "^7.1.0",
+    "source-map-loader": "^0.2.4",
+    "style-loader": "^0.23.0",
+    "typescript": "^3.0.3",
+    "typings-for-css-modules-loader": "^1.7.0",
+    "webapp-webpack-plugin": "^2.6.0",
+    "webpack": "^4.19.1",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.8"
+  }
+}
